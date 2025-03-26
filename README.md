@@ -1,4 +1,13 @@
 <p align="center">
+  # Video of UI
+  
+
+
+https://github.com/user-attachments/assets/3ab39059-6a33-4273-9102-670d80a62027
+
+
+
+  # Screenshot of UI design.
   <img src="https://github.com/user-attachments/assets/d7c17ce7-07d0-4c17-aa69-e86a43a59f0c" width="300" style="margin:10px;">
   <img src="https://github.com/user-attachments/assets/af59406b-955a-4903-a84d-f925d86b4501" width="300" style="margin:10px;">
   <img src="https://github.com/user-attachments/assets/3eaed3b1-1df0-4eff-9fb8-175324b30d24" width="300" style="margin:10px;">
